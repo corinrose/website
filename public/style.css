@@ -1,0 +1,73 @@
+/* Responsive, warm minimal canvas */
+:root {
+  --bg-color: #faf9f6;
+  --text-color: #222222;
+  --accent-color: #2b5c46;
+  --border-color: #e2e0d8;
+  --max-width: 680px;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Georgia, serif;
+  line-height: 1.65;
+  font-size: 1.05rem;
+  padding: 1.5rem 1rem;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+/* Nav */
+header nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1rem;
+}
+
+header nav a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+header nav a:hover {
+  color: var(--accent-color);
+}
+
+/* Headings & Content */
+h1 { font-size: 1.8rem; line-height: 1.25; color: #111; margin-top: 1.5rem; }
+h2 { font-size: 1.35rem; margin-top: 2rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.3rem; }
+h3 { font-size: 1.15rem; margin-top: 1.5rem; }
+
+a {
+  color: var(--accent-color);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+blockquote {
+  border-left: 3px solid var(--accent-color);
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #555;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Mobile Tweaks */
+@media (max-width: 600px) {
+  body { padding: 1rem 0.8rem; font-size: 1rem; }
+  h1 { font-size: 1.6rem; }
+}
