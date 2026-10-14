@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main>
+  <h1>{{ .Title }}</h1>
+
+  <ul style="list-style: none; padding: 0;">
+    {{ range .Pages }}
+      <li style="margin-bottom: 1rem;">
+        <a href="{{ .RelPermalink }}" style="font-weight: bold; font-size: 1.2rem;">{{ .Title }}</a>
+        {{ if .Date }}
+          <span style="color: #666; font-size: 0.9rem; margin-left: 0.5rem;">— {{ .Date.Format "Jan 2, 2006" }}</span>
+        {{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</main>
+{{ end }}
