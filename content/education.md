@@ -32,6 +32,8 @@ Following the success of these courses, Jason Waterman, my favorite CS professor
 
 This course was six weeks long, five days a week. The first four weeks were structured with a lecture from Prof. Waterman in the morning, and then after lunch a shorter lecture from Ian and I with a project we had prepared that the students could work on with our help. The final two weeks, we helped the students develop ideas for projects and implement them.
 
+The content we wrote for this course can be found on this [GitHub repository](https://github.com/corinrose/vassar-cscamp-website/blob/master/website/content/_index.md).
+
 # Math Education, Kent's Hill School
 
 After college, I worked at Kent's Hill School in Maine as a part time math teacher, filling in for a teacher who had unexpectedly left. I taught a section of Honors Geometry and a much larger class of Algebra 1. The head of the math department was the only full time member of the math faculty, and she was brilliant but severely over-leveraged. Once she saw that I was competent, I was more or less fully left on my own to develop lectures, homeworks, and tests and run the classes as I chose. This was an exciting opportunity, but also very daunting to be thrown into the deep end by myself! For the Honors Geometry class, I was provided a textbook that was really useful and well thought out, so this gave me a really good basis to go off of, but still had to develop lecture slides, homeworks, and tests. For the Algebra class, the textbook I was provided was, in my opinion, really poorly thought out. The class was also significantly larger and more differentiated, with freshman, softmores, and even one junior of varying ability and interest, and a group of students for whom English was their second language. 
