@@ -5,7 +5,7 @@ draft: false
 
 ![Saunas at Madbush Falls](/images/build/madbush.jpg)
 
-Since 2016, I worked on numerous build projects. My involvement has included carpentry, design, and project management work. Some projects have been highly collaborative, some have been solo endeavors. This is an incomplete list of selected projects from my portfolio.
+Since 2016, I've worked on numerous build projects. My involvement has included carpentry, design, and project management work. Some projects have been highly collaborative, some have been solo endeavors. This is an incomplete showcase of selected projects from my portfolio.
 
 # Structural Repair, Essex Vermont
 
@@ -41,13 +41,24 @@ I've largely learned carpentry by doing it in the field, so I was excited by thi
 
 # Savu Sauna, Burlington Vermont
 
-![Saunas](/images/build/savu.jpg)
+![Saunas](/images/build/savu/double_sauna1.jpg)
 
 In collaboration with two friends, we built saunas for the Burlington, Vermont based Savu Sauna. Initially focusing on optimizing the build process to improve the longevity and function of the saunas, we then worked with Savu to make significant improvements to the design. As the only member of the team who had previous shop experience, I took the lead on managing and improving the shop space, building improved material storage, reorganizing to improve efficiency and ease of use, maintaining tools, and ensuring safety.
 
+
+![Saunas](/images/build/savu/double_sauna.jpg)
+
 The talented and creative owner's of Savu have a very clear and stunning aesthetic vision, but we were able to work with them to vastly improve the efficiency, sustainability, and ease of building of their Sauna's while maintaining their aesthetics. This was an excellent opportunity for me to gain a deeper understanding of the entire build process from frame to finish, learn more about building science, and to really hone my finish skills. We were also able to work with some absolutely stunning materials, such as Nakaomoto (yakisugi) and high end clear vertical grain cedar.
 
+![Saunas](/images/build/savu.jpg)
+
 Much of our work was building small saunas that Savu sold outright to folks for their properties. We did have some unique jobs as well, and we were deeply involved in the design process for the saunas currently operating at Madbush Falls in Waitsfield Vermont. These saunas are owned by Savu and booked out by the hour. Some of my notable design contributions are advocating firmly for continuous exterior insulation which vastly increases the energy efficency and reduces the operating costs of these saunas, designing from scratch a floor system that included a linear drain to allow people to steam the saunas if they choose, and redesiging the interior cedar window trim to allow the siding to expand and contract freely with the temperature and humidity changes while keeping any gaps hidden.
+
+![Saunas](/images/build/savu/madbush_build.jpg)
+
+![Saunas](/images/build/savu/madbush_ext.png)
+
+![Saunas](/images/build/savu/madbush_int.png)
 
 These saunas at Madbush Falls were featured in [this New York Times article](https://www.nytimes.com/2026/03/10/travel/affordable-wellness-vacations.html)!
 

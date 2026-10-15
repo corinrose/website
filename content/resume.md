@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Corin Rose
-Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.website](http://www.corin.website)
+Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.website](https://www.corin.website)
 
 ---
 
@@ -22,7 +22,7 @@ Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.web
 
 ### Trade & Project Management
 
-* **Carpenter (Self-employed)** (July 2022 – Present)
+* **Carpenter** | Self-employed (July 2022 – Present)
   * Built a 20x30 pavilion for a wedding on Bremen Long Island in Maine.
   * Performed renovation work on multiple homes built before 1900 in Maine and Vermont.
   * Completed minor structural work, additions, building efficiency improvements, and aesthetic restoration work.
@@ -37,6 +37,10 @@ Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.web
   * Led teams building residential and commercial saunas frame-to-finish, including builds at Madbush Falls featured in a *New York Times* article.
   * Managed Savu's shop in Williston, maintaining power tools and ensuring safe tool use.
 
+* **Assistant Technical Director** | Vassar College (August 2019 – May 2020)
+  * Trained students to safely use power tools and led student teams during builds.
+  * Built sets and props for the Drama Department's three theatres.
+
 ### Engineering, Tech & Leadership
 
 * **Co-Founder and CTO** | eBumps (December 2019 – January 2021)
@@ -44,7 +48,7 @@ Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.web
   * Secured the initial funding round and hired a software and hardware team.
   * Oversaw the development and launch of the platform in Manhattan.
 
-* **Blockchain Consulting** | Fitzner Blockchain Consulting (2018 – Present)
+* **Blockchain Consulting** | Fitzner Blockchain Consulting (2018 – 2020)
   * Occasionally subcontracted to review token sale whitepapers, evaluating technical feasibility and suggesting logic or technology changes.
 
 * **Penetration Testing Contractor** | aizoOn Technology Consulting (2016)
@@ -55,16 +59,15 @@ Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.web
   * Taught one section each of Algebra 1 and Honors Geometry.
   * Applied differentiated instruction in the classroom with students at varying skill and knowledge levels.
 
-* **Assistant Technical Director & Teaching Assistant** | Vassar College (August 2019 – May 2020)
-  * Trained students to safely use power tools and led student teams during builds.
+* **Teaching Assistant, Theatre** | Vassar College (August 2019 – May 2020)
+  * Trained students to safely use power tools and supervised build projects.
   * Assisted in teaching two sections of `DRAMA-103` Introduction to Stagecraft.
-  * Built sets and props for the Drama Department's three theatres.
 
-* **Teaching Assistant** | Vassar College (Summer 2018)
+* **Teaching Assistant, Computer Science** | Vassar College (Summer 2018)
   * Developed an introductory coding summer class featuring two weeks dedicated to student-centered projects.
   * Helped establish curriculum that was further developed into an alternative introductory computer science course at Vassar.
 
-* **Google igniteCS Student Leader** | Vassar College (2017 – Present)
+* **Google igniteCS Student Leader** (Volunteer) | Vassar College (2017 – Present)
   * Led a team of ~20 Vassar students teaching local high school students how to code in Python across a 10-week curriculum covering data science and blockchains.
 
 ---
@@ -73,5 +76,6 @@ Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.web
 
 * **Management & Interpersonal:** Crew Supervision, Client Relations, Estimating, Technical Instruction
 * **Technical & Trade:** Structural and Finish Carpentry, Building Science, Tool & Shop Safety, Systems Thinking
-* **Programming & Software:** Python, C/C++, Scheme, Haskell, HTML/CSS/JavaScript, Arduino, GNU/Linux (Arch/Debian-based), GIMP, Inkscape
-* **Hardware & Fabrication:** 3D Printing, Woodworking, Shop Tool Maintenance
+* **Programming & Software:** Python, C/C++, HTML/CSS/JavaScript, Arduino, GNU/Linux (Arch/Debian-based), GIMP, Inkscape
+* **Hardware & Fabrication:** 3D Printing, Woodworking, Shop Management
+

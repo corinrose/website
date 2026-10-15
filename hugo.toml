@@ -11,26 +11,22 @@ disableKinds = ["taxonomy", "term"]
     url = '/'
     weight = 1
   [[menu.main]]
-    name = 'Tutoring'
-    url = '/tutoring/'
+    name = 'Build'
+    url = '/build'
     weight = 2
   [[menu.main]]
     name = 'Resume'
     url = '/resume/'
     weight = 3
   [[menu.main]]
-    name = 'Build'
-    url = '/build'
-    weight = 4
-  [[menu.main]]
     name = 'Education'
     url = '/education'
-    weight = 5
+    weight = 4
   [[menu.main]]
-    name = 'About Me'
+    name = 'About'
     url = '/about'
-    weight = 6
+    weight = 5
   [[menu.main]]
     name = 'Blog'
     url = '/posts/'
-    weight = 7
+    weight = 6

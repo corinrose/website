@@ -18,8 +18,10 @@ I attended the Maine School of Science and Mathematics for high school. The publ
 
 Maine has a special place in my heart, the vast state contains as much varied human experience as it does geography. The Mountains, the Forests, the Ocean. The rural fishing communities and blueberry barrons, the farmers, the vibrant and unique city life surrounding Portland. I did however want to broaden my experience somewhat, and so I attended Vassar College.
 
-In the Hudson Valley in New York, I was closer to where I was born than I had ever lived, but it was all unfamiliar to me. I met people from vastly different parts of the world and lifestyles than me, and I gained a broader understanding of how the world works. This deepened my already developing socio-political perspective that humanity on the whole has much more in common than we do 
+In the Hudson Valley in New York, I was closer to where I was born than I had ever lived, but it was all unfamiliar to me. I met people from vastly different parts of the world and lifestyles than me, and I gained a broader understanding of how the world works. This deepened my already developing view that humanity on the whole has much more in common than we have differentiating us.
 
-I studied advanced math and computer science, and I also tried my best to spendmy time outside of the classroom learning as well. I worked in Vassar's nationally renowned theatre department, first as a Theatrical Journeyman and then as the Assistant Technical Director, building sets for the main proscenium Martell stage, the black box Powerhouse Theatre, and the smaller Streep black box theatre. I worked for some incredibly talented people and learned a lot about carpentry, creative problem solving, and managing a team. 
+I studied advanced math and computer science, and I also tried my best to spend my time outside of the classroom learning as well. I worked in Vassar's nationally renowned theatre department, first as a Theatrical Journeyman and then as the Assistant Technical Director, building sets for the main proscenium Martell stage, the black box Powerhouse Theatre, and the smaller Streep black box theatre. I worked for some incredibly talented people and learned a lot about carpentry, creative problem solving, and managing a team. 
+
+To be continued!
 
 
