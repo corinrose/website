@@ -1,7 +1,7 @@
 ---
 title: "Island Building"
 draft: false
-date: 2026-10-14
+date: 2022-09-14
 ---
 
 ![Raising the trusses](/images/build/bremen/truss.jpg)
