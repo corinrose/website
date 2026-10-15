@@ -37,7 +37,7 @@ I've largely learned carpentry by doing it in the field, so I was excited by thi
 
 ![Saunas](/images/build/savu/double_sauna1.jpg)
 
-In collaboration with two friends, we built saunas for the Burlington, Vermont based Savu Sauna. Initially focusing on optimizing the build process to improve the longevity and function of the saunas, we then worked with Savu to make significant improvements to the design. As the only member of the team who had previous shop experience, I took the lead on managing and improving the shop space, building improved material storage, reorganizing to improve efficiency and ease of use, maintaining tools, and ensuring safety.
+In collaboration with two friends, I built saunas for the Burlington, Vermont based Savu Sauna. Initially focusing on optimizing the build process to improve the longevity and function of the saunas, we then worked with Savu to make significant improvements to the design. As the only member of the team who had previous shop experience, I took the lead on managing and improving the shop space, building improved material storage, reorganizing to improve efficiency and ease of use, maintaining tools, and ensuring safety.
 
 
 ![Saunas](/images/build/savu/double_sauna.jpg)
