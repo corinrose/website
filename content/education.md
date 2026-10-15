@@ -3,7 +3,7 @@ title: "Education Background"
 draft: false
 ---
 
-Both of my parent's are educators, so I have always been emersed in that world, and always valued the importance of lifelong learning. 
+Both of my parent's are educators, so I have always been immersed in that world, and always valued the importance of lifelong learning. 
 
 # Tutoring and Conservation Education 
 
@@ -16,7 +16,7 @@ Over the summers I worked as a couneslor at Greenland Point Center, a conservati
 
 # Vassar IgniteCS
 
-At Vassar College, my passion for teaching grew, as well as my understanding of the ongoing issues with access to education. This became hard to ignore at Vassar, where the campus itself was this bubble of gorgeous architecture and perfectly manicured flower beds, surrounded by the struggling working class city of Poughkeepsie, New York. There was a street as you leave campus with a bunch of shops and resturaunts clearly marketing entirely to the college students. It was pristine and expensive. As soon as you walked beyond this street, the contrast was stark. In many ways it was a vibrant community, but with shuttered businesses and dilapidated homes dotting the streets at the last stop on New York City's Metro-North line. 
+At Vassar College, my passion for teaching grew alongside a understanding of the issues with access to education and opportunity. This became hard to ignore at Vassar, where the campus itself is this bubble of gorgeous architecture and perfectly manicured flower beds, with a literal unfinished wall surrounding the campus to separate it from the working city of Poughkeepsie. Formerly one of IBM's largest and most important hubs of manufacturing and research & development, deindustrialization in the 90s left scars that are still healing on the last stop on NYC's Metro-North line. I remember when some wealthy alum donated huge sums to the school, earmarked for rebuilding the "Shakespeare Garden" behind the Computer Science building. This money was not to be used for scholarships to bring people from broader backgrounds to Vassar, nor was it to be used for community outreach. As time went on, the vast wealth concentrated at the college and where that money went made me more and more uneasy.
 
 Working under the existing computer science club, a small group of me and maybe two or three other students  reached out to local middle schools and developed a program to provide weekly after school classes covering fun and practical computer science skills. We acquired funding through Google's IgniteCS program, and our first year taught students to use Arduinos, open source microcontrollers that we hoped would show the students a bit of hardware and software, and excite them enough to continue pursuing their education.
 
