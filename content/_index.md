@@ -8,7 +8,7 @@ draft: false
 
 I'm Corin--builder and educator. 
 
-Take a look my [build](/build) page which shows off some of the cool carpentry projects I've worked on!
+Take a look at my [build](/build) page which shows off some of the cool carpentry projects I've worked on!
 
 Head over to my [resume](/resume) to get a sense of my professional and academic background.
 
