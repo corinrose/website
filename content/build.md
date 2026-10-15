@@ -15,7 +15,7 @@ I demoed and re-built a 16' x 50' deck with wraparound stairs. It was a collabor
 
 {{< video src="/videos/bumpout.mp4" >}}
 
-We hired a structural engineer to develop plans for the deck that included tying the improperly supported bumpout into the new deck framing. The client wanted the option of demoing the bumpout in the future and building an addition to their home that extends out further, and so the deck framing was engineered to support that possible future addition.I completed takeoffs based on the engineer's specs and ordered framing and decking materials. We brought in GoliathTech to install the helical pier foundation and do some landscaping work and I completed the structural repair and built the rest of the deck entirely on my own.
+We hired a structural engineer to develop plans for the deck that included tying the improperly supported bumpout into the new deck framing. The client wanted the option of demoing the bumpout in the future and building an addition to their home that extends out further, and so the deck framing was engineered to support that possible future addition. I completed takeoffs based on the engineer's specs and ordered framing and decking materials. We brought in GoliathTech to install the helical pier foundation and do some landscaping work and I completed the structural repair and built the rest of the deck entirely on my own.
 
 ![Deck](/images/build/slocum/progress.jpg)
 
@@ -42,7 +42,7 @@ In collaboration with two friends, I built saunas for the Burlington, Vermont ba
 
 ![Saunas](/images/build/savu/double_sauna.jpg)
 
-The talented and creative owners of Savu have a very clear and stunning aesthetic vision, but we were able to work with them to vastly improve the efficiency, sustainability, and ease of building of their Sauna's while maintaining their aesthetics. This was an excellent opportunity for me to gain a deeper understanding of the entire build process from frame to finish, learn more about building science, and to really hone my finish skills. We were also able to work with some absolutely stunning materials, such as Nakaomoto (yakisugi) and high end clear vertical grain cedar.
+The talented and creative owners of Savu have a very clear and stunning aesthetic vision, but we were able to work with them to vastly improve the efficiency, sustainability, and ease of building of their saunas while maintaining their aesthetics. This was an excellent opportunity for me to gain a deeper understanding of the entire build process from frame to finish, learn more about building science, and to really hone my finish skills. We were also able to work with some absolutely stunning materials, such as Nakaomoto (yakisugi) and high end clear vertical grain cedar.
 
 ![Saunas](/images/build/savu.jpg)
 
@@ -74,9 +74,9 @@ Having done a number of smaller structural repairs, I led our team of me and two
 
 ![Pavilion](/images/build/bremen/pavilion1.jpg)
 
-With the same two friends who later worked with Savu, we spent most of a summer camped out on Bremen Long Island off the coast of Maine. Our main project was the pavilion 20' x 30' pavilion pictured above, and we also built a few tent platforms, an outhouse, and insulated and finished a cabin. This pavilion was built to host the reception of the client's wedding later that summer, and was also engineered to support the weight of the client's truck for future storage. It was also built to host an array of solar panels. 
+With the same two friends who later worked with Savu, we spent most of a summer camped out on Bremen Long Island off the coast of Maine. Our main project was the 20' x 30' pavilion pictured above, and we also built a few tent platforms, an outhouse, and insulated and finished a cabin. This pavilion was built to host the reception of the client's wedding later that summer, and was also engineered to support the weight of the client's truck for future storage. It was also built to host an array of solar panels. 
 
-Island builds, we learned, are a unique challenge. We were lucky to have the help and advice of a local who had experience with island builds, and owned a barge to transport materials to the island and some other heavy equipment we made great use of to build the foundation. We however learned that raising trusses on an island without a crane is difficult. More on all of this in my blog post about this project!
+Island builds, we learned, are a unique challenge. We were lucky to have the help and advice of a local who had experience with island builds, and owned a barge to transport materials to the island and some other heavy equipment we made great use of to build the foundation. We however learned that raising trusses on an island without a crane is difficult. More on all of this in my [blog post](/posts/island) about this project!
 
 ![Pavilion](/images/build/bremen/pavilion_progress.jpg)
 
@@ -91,3 +91,16 @@ This was the first project where I was fully in charge of the build process. I c
 ![Garage](/images/build/garage.jpg)
 
 # Theatrical Carpentry, Vassar College
+
+![The Drama scene shop](/images/build/vassar/shop.jpg)
+
+I worked in the Vassar Drama Department through all four years of my tenure, senior year serving both as the Assistant Technical Director for the department and as the Teaching Assistant for two sections of Drama 103, Intro to Stagecraft. In this time, I built sets, props, and implemented special effects. I gained a lot of experience using power tools, and learned a broad range of skills from painting flats to upholstering furniture. I worked closely with set designers, directors, and the rest of the production team to bring their creative vision to life. 
+
+As the years progressed, I took a more active role in managing the shop, ensuring safe operation of tools, and managing build teams, especially when we had multiple sets being built across the different theatres. The brilliant and creative Paul O'Connor, Technical Director for the Vassar Drama Department, taught me a great deal about carpentry, shop work, managing a team, and most of all bringing an infectious positivity to the job that brings everyone together. 
+
+Paul always had a trick for how to make something look worn in just the right way, or how to get something done faster than you'd think possible and ready for rehearsal later that night. He also went out of his way to teach me skills that I still utilize to this day--like taking the extra time to frame out structures using the same methods we do for building homes, so that I would get even more out of the experience than I already was.
+
+I was also immensely spoiled working in such a clean, organized, well-outfitted shop. I never had to consider where materials came from or think about making our work stand up to weather. We made an active effort to build our set pieces so that we could break them down and reuse them in future productions, but our sets only had to last the length of the production and were only seen from the audience's perspective 20+ feet away, from a few particular angles. When I eventually transitioned into doing exterior work in the field, a lot of my skills transferred, but I had a whole new category of skills to master!
+
+![A set](/images/build/vassar/set.jpg)
+
