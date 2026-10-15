@@ -7,25 +7,17 @@ draft: false
 
 Since 2016, I've worked on numerous build projects. My involvement has included carpentry, design, and project management work. Some projects have been highly collaborative, some have been solo endeavors. This is an incomplete showcase of selected projects from my portfolio.
 
-# Structural Repair, Essex Vermont
-
-![Structural repair before](/images/build/structural_repair1.jpg)
-
-While working for a contractor based out of Shelburne, Vermont, I did a mix of carpentry, project management, and business development work. One of my projects was leading a structural repair at a log cabin in Essex, Vermont. We and the client's agreed that we wanted to open up the dining room into the main living space to improve circulation and light. However, when we demoed the wall, we found that the beam supporting the second floor was not continuous, and was split over the three studs seen in the image above near the bottom of the stairs. This unfortunately meant that much of the load from the second floor was getting transferred to the triple floor joist adjacent to the stairs, which was inadequate and beginning to deflect, and also meant that we couldn't open up the room without further work.
-
-The contractor I was working under designed and spec'd out a repair where we replaced this split beam with two LVL's spanning the full length of the opening, so that we could install posts and effectively transfer the load to the main beam running through the center of the house and to the foundation wall, and open up the space in the process. 
-
-Having done a number of smaller structural repairs, I led our team of me and two helpers to jack up the second floor with a temporary beam, cut out the old beam, and install the doubled LVL beam and posts.
-
-![Structural repair after](/images/build/structural_repair2.jpg)
-
 # Black Locust Deck, South Burlington Vermont
 
 ![Deck](/images/build/slocum/slocum2.jpg)
 
 I demoed and re-built a 16' x 50' deck with wraparound stairs. It was a collaborative process--the client did the majority of the design work, including picking out the beautiful, long lasting, and sustainable Black Locust decking. Originally the job was just to replace a few rotten deck boards, but upon investigation I found significant rot on the framing and serious structural issues with the small bumpout seen in the image above.
 
-We hired a structural engineer to develop plans for the deck that included tying the improperly supported bumpout into the new deck framing. The client wanted the option of demoing the bumpout in the future and building an addition to their home that extends out further, and so the deck framing was engineered to support that possible future addition. We brought in Goliath Tech to install the helical pier foundation and do some landscaping work. I completed takeoffs based on the engineers specs, ordered framing and decking materials, completed the structural repair and built the rest of the deck entirely on my own. 
+{{< video src="/videos/bumpout.mp4" >}}
+
+We hired a structural engineer to develop plans for the deck that included tying the improperly supported bumpout into the new deck framing. The client wanted the option of demoing the bumpout in the future and building an addition to their home that extends out further, and so the deck framing was engineered to support that possible future addition.I completed takeoffs based on the engineers specs and ordered framing and decking materials. We brought in Goliath Tech to install the helical pier foundation and do some landscaping work and I completed the structural repair and built the rest of the deck entirely on my own.
+
+![Deck](/images/build/slocum/progress.jpg)
 
 This was my largest solo build to date! The wraparound stairs in particular were a challenge--the deck we were replacing had box framed wraparound stairs, which are much easier to build but are fully enclosed and trap moisture under the deck, which was a big contributor to the rot. So we wanted this new deck to stay open and have lots of air flow.
 
@@ -36,6 +28,8 @@ This was my largest solo build to date! The wraparound stairs in particular were
 ![Canoe](/images/build/canoe.jpg)
 
 A friend and I attended Yestermorrow's canoe building class, where we learned the traditional method of building a skin-on-frame canoe, which is in many ways more similar to basket weaving than the woodworking and carpentry I've done professionally. We utilized a lot of steam bending which I was excited to learn about. We then skinned the canoe using fiberglass and a few layers of polyurethane, in place of the traditional animal hyde.
+
+![Canoe](/images/build/canoe_water.jpg)
 
 I've largely learned carpentry by doing it in the field, so I was excited by this opportunity to be in a classroom and learn some skills that were outside of my expertise!
 
@@ -62,6 +56,17 @@ Much of our work was building small saunas that Savu sold outright to folks for 
 
 These saunas at Madbush Falls were featured in [this New York Times article](https://www.nytimes.com/2026/03/10/travel/affordable-wellness-vacations.html)!
 
+# Structural Repair, Essex Vermont
+
+![Structural repair before](/images/build/structural_repair1.jpg)
+
+While working for a contractor based out of Shelburne, Vermont, I did a mix of carpentry, project management, and business development work. One of my projects was leading a structural repair at a log cabin in Essex, Vermont. We and the client's agreed that we wanted to open up the dining room into the main living space to improve circulation and light. However, when we demoed the wall, we found that the beam supporting the second floor was not continuous, and was split over the three studs seen in the image above near the bottom of the stairs. This unfortunately meant that much of the load from the second floor was getting transferred to the triple floor joist adjacent to the stairs, which was inadequate and beginning to deflect, and also meant that we couldn't open up the room without further work.
+
+The contractor I was working under designed and spec'd out a repair where we replaced this split beam with two LVL's spanning the full length of the opening, so that we could install posts and effectively transfer the load to the main beam running through the center of the house and to the foundation wall, and open up the space in the process. 
+
+Having done a number of smaller structural repairs, I led our team of me and two helpers to jack up the second floor with a temporary beam, cut out the old beam, and install the doubled LVL beam and posts.
+
+![Structural repair after](/images/build/structural_repair2.jpg)
 
 # Post and Beam Pavilion, Bremen Long Island Maine
 
