@@ -1,10 +1,11 @@
-<video 
-  src="{{ .Get "src" }}" 
-  {{ if eq (.Get "controls" | default "true") "true" }}controls{{ end }} 
-  {{ if eq (.Get "autoplay") "true" }}autoplay{{ end }} 
-  {{ if eq (.Get "loop") "true" }}loop{{ end }} 
-  {{ if eq (.Get "muted") "true" }}muted{{ end }} 
-  playsinline 
-  style="max-width: 100%; height: auto; border-radius: 4px; margin: 1rem 0;">
-  Your browser does not support the video tag.
-</video>
+<div class="video-wrapper">
+  <video
+    src="{{ .Get "src" }}"
+    {{ if eq (.Get "controls" | default "true") "true" }}controls{{ end }}
+    {{ if eq (.Get "autoplay") "true" }}autoplay{{ end }}
+    {{ if eq (.Get "loop") "true" }}loop{{ end }}
+    {{ if eq (.Get "muted") "true" }}muted{{ end }}
+    playsinline>
+    Your browser does not support the video tag.
+  </video>
+</div>

@@ -3,7 +3,7 @@
   <h1>{{ .Title }}</h1>
 
   <ul style="list-style: none; padding: 0;">
-    {{ range .Pages }}
+      {{ range where .Pages "Params.personal" "!=" true }}
       <li style="margin-bottom: 1rem;">
         <a href="{{ .RelPermalink }}" style="font-weight: bold; font-size: 1.2rem;">{{ .Title }}</a>
         {{ if .Date }}

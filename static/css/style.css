@@ -67,6 +67,21 @@ img {
   display: block;
 }
 
+.video-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem auto;
+  max-width: 100%;
+}
+
+.video-wrapper video {
+  max-height: 50vh;  /* Caps the height at half your laptop screen */
+  width: auto;       /* Scales width proportionally to match the height cap */
+  max-width: 100%;   /* Ensures it never overflows mobile screens */
+  object-fit: contain;
+  border-radius: 4px;
+}
+
 /* Mobile Tweaks */
 @media (max-width: 600px) {
   body { padding: 1rem 0.8rem; font-size: 1rem; }
