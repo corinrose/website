@@ -76,6 +76,7 @@ With the same two friends who later worked with Savu, we spent most of a summer 
 
 Island builds, we learned, are a unique challenge. We were lucky to have the help and advice of a local who had experience with island builds, and owned a barge to transport materials to the island and some other heavy equipment we made great use of to build the foundation. We however learned that raising trusses on an island without a crane is difficult. More on all of this in my blog post about this project!
 
+![Pavilion](/images/build/bremen/pavilion_progress.jpg)
 
 # One Car Garage, Jonesboro Maine
 
