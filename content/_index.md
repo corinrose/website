@@ -6,7 +6,7 @@ draft: false
 
 # Hello!
 
-I'm Corin--educator, developer, and builder. 
+I'm Corin--builder and educator. 
 
 Take a look my [build](/build) page which shows off some of the cool carpentry projects I've worked on!
 
