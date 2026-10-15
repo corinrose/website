@@ -64,6 +64,8 @@ While working for a contractor based out of Shelburne, Vermont, I did a mix of c
 
 The contractor I was working under designed and spec'd out a repair where we replaced this split beam with two LVL's spanning the full length of the opening, so that we could install posts and effectively transfer the load to the main beam running through the center of the house and to the foundation wall, and open up the space in the process. 
 
+{{< youtube XVVe9Ru6IpU >}}
+
 Having done a number of smaller structural repairs, I led our team of me and two helpers to jack up the second floor with a temporary beam, cut out the old beam, and install the doubled LVL beam and posts.
 
 ![Structural repair after](/images/build/structural_repair2.jpg)
