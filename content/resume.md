@@ -67,7 +67,7 @@ Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.web
   * Developed an introductory coding summer class featuring two weeks dedicated to student-centered projects.
   * Helped establish curriculum that was further developed into an alternative introductory computer science course at Vassar.
 
-* **Google igniteCS Student Leader** (Volunteer) | Vassar College (2017 – Present)
+* **Google igniteCS Student Leader** (Volunteer) | Vassar College (2017 – 2019)
   * Led a team of ~20 Vassar students teaching local high school students how to code in Python across a 10-week curriculum covering data science and blockchains.
 
 ---
