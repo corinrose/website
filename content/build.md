@@ -106,6 +106,10 @@ As the years progressed, I took a more active role in managing the shop, ensurin
 
 Paul always had a trick for how to make something look worn in just the right way, or how to get something done faster than you'd think possible and ready for rehearsal later that night. He also went out of his way to teach me skills that I still utilize to this day--like taking the extra time to frame out structures using the same methods we do for building homes, so that I would get even more out of the experience than I already was.
 
+For Paul's birthday, I snuck into the shop with a couple other student's and we built and hung this sign! We installed bulbs around the perimeter and a remote control LED light strip so that the "SHOP" text could change color, and we cannibalizaed a box fan motor so that the saw blade spins.
+
+![A set](/images/build/vassar/paulsshop.jpg)
+
 I was also immensely spoiled working in such a clean, organized, well-outfitted shop. I never had to think about ordering materials or build anything that could stand up to weather. We made an active effort to build our set pieces so that we could break them down and reuse them in future productions, but our sets only had to last the length of the production and were only seen from the audience's perspective 20+ feet away, from a few particular angles. When I eventually transitioned into doing exterior work in the field, a lot of my skills transferred, but I had a whole new category of skills to master!
 
 ![A set](/images/build/vassar/set.jpg)
