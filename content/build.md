@@ -11,7 +11,7 @@ Since 2016, I've worked on numerous build projects. My involvement has included 
 
 ![Deck](/images/build/slocum/slocum2.jpg)
 
-I demoed and re-built a 16' x 50' deck with wraparound stairs. It was a collaborative process--the client did the majority of the design work, including picking out the beautiful, long-lasting, and sustainable Black Locust decking. Originally the job was just to replace a few rotten deck boards, but upon investigation I found significant rot on the framing and serious structural issues with the small bumpout seen in the image above.
+I demoed and re-built a 16' x 50' deck with wraparound stairs. It was a collaborative process--the client did the majority of the design work, including picking out the beautiful, long-lasting, and sustainable [Black Locust](https://robidecking.com/products/black-locust-decking/) from Robi Decking. Originally the job was just to replace a few rotten deck boards, but upon investigation I found significant rot on the framing and serious structural issues with the small bumpout seen in the image above.
 
 {{< video src="/videos/bumpout.mp4" >}}
 
