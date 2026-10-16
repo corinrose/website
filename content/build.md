@@ -38,7 +38,7 @@ The talented and creative owners of Savu have a very clear and stunning aestheti
 
 ![Saunas](/images/build/savu/georgia_int.jpg)
 
-We were able to work with some absolutely stunning materials, such as Nakomoto's [shou sugi ban collection](https://nakamotoforestry.com/products/shou-sugi-ban/). You can see both Pika-Pika and Gendai siding on exterior of the same Sauna in Georgia.
+We were able to work with some absolutely stunning materials, such as Nakamoto's [shou sugi ban collection](https://nakamotoforestry.com/products/shou-sugi-ban/). You can see both Pika-Pika and Gendai siding on the exterior of the same sauna in Georgia.
 
 ![Saunas](/images/build/savu/georgia_front.jpg)
 
@@ -56,7 +56,7 @@ These saunas at Madbush Falls were mentioned in this [New York Times article](ht
 
 ![Canoe](/images/build/canoe.jpg)
 
-A friend and I attended Yestermorrow's canoe building class, where we learned the traditional method of building a skin-on-frame canoe. This is in many ways more similar to basket weaving than the woodworking and carpentry I've done professionally. We utilized a lot of steam bending which I was excited to learn about. We then skinned the canoe using fiberglass and a few layers of polyurethane, in place of the traditional animal hyde.
+A friend and I attended Yestermorrow's canoe building class, where we learned the traditional method of building a skin-on-frame canoe. This is in many ways more similar to basket weaving than the woodworking and carpentry I've done professionally. We utilized a lot of steam bending which I was excited to learn about. We then skinned the canoe using fiberglass and a few layers of polyurethane, in place of the traditional animal hide.
 
 ![Canoe](/images/build/canoe_water.jpg)
 
@@ -68,7 +68,7 @@ I've largely learned carpentry by doing it in the field, so I was excited by thi
 
 While working for a contractor based out of Shelburne, Vermont, I did a mix of carpentry, project management, and business development work. One of my projects was leading a structural repair at a log cabin in Essex, Vermont. We and the clients agreed that we wanted to open up the dining room into the main living space to improve circulation and light. However, when we demoed the wall, we found that the beam supporting the second floor was not continuous, and was split over the three studs seen in the image above near the bottom of the stairs. This unfortunately meant that much of the load from the second floor was getting transferred to the triple floor joist adjacent to the stairs, which was inadequate and beginning to deflect, and also meant that we couldn't open up the room without further work.
 
-The contractor I was working under designed and spec'd out a repair where we replaced this split beam with two LVL's spanning the full length of the opening, so that we could install posts and effectively transfer the load to the main beam running through the center of the house and to the foundation wall, and open up the space in the process. 
+The contractor I was working under designed and spec'd out a repair where we replaced this split beam with two LVLs spanning the full length of the opening, so that we could install posts and effectively transfer the load to the main beam running through the center of the house and to the foundation wall, and open up the space in the process. 
 
 Having done a number of smaller structural repairs, I led our team of me and two helpers to jack up the second floor with a temporary beam, cut out the old beam, and install the doubled LVL beam and posts.
 
