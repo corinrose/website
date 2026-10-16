@@ -1,19 +1,19 @@
 ---
-title: "Island Building"
+title: "Raising Trusses on an Island Without a Crane"
 draft: false
 date: 2022-09-14
 ---
 
 ![Raising the trusses](/images/build/bremen/truss.jpg)
 
-While finishing up my semester as a part-time math instructor at Kent's Hill School, my friend reached out about a very intriguing carpentry project. His very successful friend from college had purchased a couple acres on Bremen Long Island, off the coast of Damariscotta, Maine and was in the process of developing it. They had some areas cleared, brought in gravel and laid out a road from the dock to a few build sites, and had a small cabin and a few storage sheds built by another developer. 
+While finishing up my semester as a part-time math instructor at Kents Hill School, my friend reached out about a very intriguing carpentry project. His very successful friend from college had purchased a couple acres on Bremen Long Island, off the coast of Damariscotta, Maine and was in the process of developing it. They had some areas cleared, brought in gravel and laid out a road from the dock to a few build sites, and had a small cabin and a few storage sheds built by another developer. 
 
 The client's wedding was later that summer, and they wanted to build a large pavilion to host the reception for the wedding, and to later be used to host an array of solar panels and as a covered area to park a truck they'd keep on the island. They also wanted a few tent platforms to host guests, and an outhouse with a composting toilet. My friend leveraged his architecture background to design and plan these builds.
 
 There was no bridge to the mainland, and the property was largely undeveloped. So we knew there would be challenges. With four years of theatrical carpentry under my belt, a one car garage I'd built, and various smaller projects along the way I was excited by the opportunity to stretch my carpentry legs! 
 
 
-![](/images/build/bremen/cabin.jpg)
+![Pine paneling stacked ready to be installed in the cabin](/images/build/bremen/cabin.jpg)
 
 We initially spent two weeks on the island, insulating and installing tongue and groove pine paneling to finish the inside of the cabin. I've always loved camping, but this was already the longest I'd slept in a tent! We ran into plenty of unexpected challenges, the most frustrating of which was the constant 90%+ humidity warping the pine so severely that slotting the boards together was a real challenge.
 
@@ -46,7 +46,7 @@ We set the posts. Then, my friend and I began laminating the beams in place whil
 
 ![Posts set, beams in process of being laminated](/images/build/bremen/beams_progress.jpg)
 
-While we were finished up the beams, we got our trusses delivered on the barge. With the tight window the barge could remain without being beached, we had to quickly move them one by one onto the shore. Then we one by one carried them by hand all the way up to the pavilion site.
+While we finished up the beams, we got our trusses delivered on the barge. With the tight window the barge could remain without being beached, we had to quickly move them one by one onto the shore. Then we one by one carried them by hand all the way up to the pavilion site.
 
 ![Trusses piled near the pavilion](/images/build/bremen/trusses.jpg)
 

@@ -11,7 +11,7 @@ Since 2016, I've worked on numerous build projects. My involvement has included 
 
 ![Deck](/images/build/slocum/slocum2.jpg)
 
-I demoed and re-built a 16' x 50' deck with wraparound stairs. It was a collaborative process--the client did the majority of the design work, including picking out the beautiful, long lasting, and sustainable Black Locust decking. Originally the job was just to replace a few rotten deck boards, but upon investigation I found significant rot on the framing and serious structural issues with the small bumpout seen in the image above.
+I demoed and re-built a 16' x 50' deck with wraparound stairs. It was a collaborative process--the client did the majority of the design work, including picking out the beautiful, long-lasting, and sustainable Black Locust decking. Originally the job was just to replace a few rotten deck boards, but upon investigation I found significant rot on the framing and serious structural issues with the small bumpout seen in the image above.
 
 {{< video src="/videos/bumpout.mp4" >}}
 
@@ -19,7 +19,7 @@ We hired a structural engineer to develop plans for the deck that included tying
 
 ![Deck](/images/build/slocum/progress.jpg)
 
-This was my largest solo build to date! The wraparound stairs in particular were a challenge--the deck we were replacing had box framed wraparound stairs, which are much easier to build but are fully enclosed and trap moisture under the deck, which was a big contributor to the rot. So we wanted this new deck to stay open and have lots of air flow.
+This was my largest solo build to date! The wraparound stairs in particular were a challenge--the deck we were replacing had box-framed wraparound stairs, which are much easier to build but are fully enclosed and trap moisture under the deck, which was a big contributor to the rot. So we wanted this new deck to stay open and have lots of air flow.
 
 ![Deck](/images/build/slocum/stairs.jpg)
 
@@ -80,7 +80,7 @@ Having done a number of smaller structural repairs, I led our team of me and two
 
 ![Pavilion](/images/build/bremen/pavilion1.jpg)
 
-I spent most of a summer camped out on Bremen Long Island off the coast of Maine with two carpenter friends. Our main project was the 20' x 30' pavilion pictured above, and we also built a few tent platforms, an outhouse, and insulated and finished a cabin. This pavilion was built to host the reception of the client's wedding later that summer, and was also engineered to support the weight of the client's truck for future storage. It was also built to host an array of solar panels. 
+I spent most of a summer camped out on Bremen Long Island off the coast of Maine with two carpenter friends. Our main project was the 20' x 30' pavilion pictured above, and we also built a few tent platforms, an outhouse, and we insulated and finished a cabin. This pavilion was built to host the reception of the client's wedding later that summer, and was also engineered to support the weight of the client's truck for future storage. It was also built to host an array of solar panels. 
 
 Island builds, we learned, are a unique challenge. We were lucky to have the help and advice of a local who had experience with island builds, and owned a barge to transport materials to the island and some other heavy equipment we made great use of to build the foundation. We however learned that raising trusses on an island without a crane is difficult. See my [blog post](/posts/island) for the full story!
 
@@ -100,7 +100,7 @@ This was the first project where I was fully in charge of the build process. I c
 
 ![The Drama scene shop](/images/build/vassar/shop.jpg)
 
-I worked in the Vassar Drama Department through all four years of my tenure, senior year serving both as the Assistant Technical Director for the department and as the Teaching Assistant for two sections of Drama 103, Intro to Stagecraft. In this time, I built sets, props, and implemented special effects. I gained a lot of experience using power tools, and learned a broad range of skills from painting flats to upholstering furniture. I worked closely with set designers, directors, and the rest of the production team to bring their creative vision to life. 
+I worked in the Vassar Drama Department through all four years at Vassar, senior year serving both as the Assistant Technical Director for the department and as the Teaching Assistant for two sections of Drama 103, Intro to Stagecraft. In this time, I built sets, props, and implemented special effects. I gained a lot of experience using power tools, and learned a broad range of skills from painting flats to upholstering furniture. I worked closely with set designers, directors, and the rest of the production team to bring their creative vision to life. 
 
 As the years progressed, I took a more active role in managing the shop, ensuring safe operation of tools, and managing build teams, especially when we had multiple sets being built across the different theatres. The brilliant and creative Paul O'Connor, Technical Director for the Vassar Drama Department, taught me a great deal about carpentry, shop work, managing a team, and most of all bringing an infectious positivity to the job that brings everyone together. 
 

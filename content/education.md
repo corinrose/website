@@ -30,7 +30,7 @@ This year, we took our existing lectures on the fundamentals of Python programmi
 
 # Vassar CS Summer Camp
 
-Following the success of these courses, Jason Waterman, my favorite CS professor at Vassar, reached out to me and my friend Ian who were the principal content writers for the program about teaching a more more extensive summer CS camp aimed in particular at Vassar students who had no background in computer science. This course was loosely based on Harvey Mudd's introduction to computer science as well as Prof. Waterman's and our lecture material, with the hope being to eventually replace Vassar's existing CMPU101 introductory class, which taught Scheme and was overly focused on theory and not up to date with modern programming techniques. 
+Following the success of these courses, Jason Waterman, my favorite CS professor at Vassar, reached out to me and my friend Ian who were the principal content writers for the program about teaching a more extensive summer CS camp aimed in particular at Vassar students who had no background in computer science. This course was loosely based on Harvey Mudd's introduction to computer science as well as Prof. Waterman's and our lecture material, with the hope being to eventually replace Vassar's existing CMPU101 introductory class, which taught Scheme and was overly focused on theory and not up to date with modern programming techniques. 
 
 This course was six weeks long, five days a week. The first four weeks were structured with a lecture from Prof. Waterman in the morning, and then after lunch a shorter lecture from Ian and I with a project we had prepared that the students could work on with our help. The final two weeks, we helped the students develop ideas for projects and implement them.
 
@@ -38,11 +38,11 @@ The content we wrote for this course can be found on this [GitHub repository](ht
 
 You can also check out this [article](https://www.vassar.edu/stories/2018/180906-coding-class.html) about the summer program.
 
-# Math Instruction, Kent's Hill School
+# Math Instruction, Kents Hill School
 
-![Kent's Hill School from above](/images/education/khs.jpg)
+![Kents Hill School from above](/images/education/khs.jpg)
 
-After college, I worked at [Kent's Hill School](https://www.kentshill.org/) in Maine as a part time math instructor, filling in for a teacher who had unexpectedly left. I taught a section of Honors Geometry and a much larger Algebra 1 class. The head of the math department was the only full time member of the math faculty, and so she was happy to have a competent instructor on board and gave me full independence to teach the courses as I saw fit. This was an exciting opportunity, but also daunting to be thrown into the deep end by myself! 
+After college, I worked at [Kents Hill School](https://www.kentshill.org/) in Maine as a part time math instructor, filling in for a teacher who had unexpectedly left. I taught a section of Honors Geometry and a much larger Algebra 1 class. The head of the math department was the only full time member of the math faculty, and so she was happy to have a competent instructor on board and gave me full independence to teach the courses as I saw fit. This was an exciting opportunity, but also daunting to be thrown into the deep end by myself! 
 
 
 For the Honors Geometry class, I was provided [The Art of Problem Solving: Introduction to Geometry by Richard Rusczyk](https://artofproblemsolving.com/store/book/intro-geometry), which was a useful and well thought out textbook. This gave me a really good basis to go off of. The small class size allowed me to tailor my instruction to the needs and interests of the students. I developed lecture slides, homeworks, and tests which you can peruse [here](https://drive.google.com/drive/folders/16o7UuLz19VdeBYOy8Zg3_fMsGBa8d7ES?usp=sharing). 
@@ -53,4 +53,4 @@ One of these students had excellent English. He clearly wanted to be a bit of a 
 
 You can see the lecture slides, homeworks, quizzes, handouts, and tests I developed for this course [here](https://drive.google.com/drive/folders/13d-mMDZPWeNaqbig4O_LNMdGh2TTo29j?usp=sharing).
 
-Kent's Hill School offered me a full time position and to fund a Master's in Education at the University of Maine in Farmington, but I'd been contacted about doing the carpentry work on Bremen Long Island referenced on my build portfolio, which was too interesting of a project to turn down!
+Kents Hill School offered me a full time position and to fund a Master's in Education at the University of Maine in Farmington, but I'd been contacted about doing the carpentry work on Bremen Long Island referenced on my build portfolio, which was too interesting of a project to turn down!
