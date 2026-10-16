@@ -106,7 +106,7 @@ As the years progressed, I took a more active role in managing the shop, ensurin
 
 Paul always had a trick for how to make something look worn in just the right way, or how to get something done faster than you'd think possible and ready for rehearsal later that night. He also went out of his way to teach me skills that I still utilize to this day--like taking the extra time to frame out structures using the same methods we do for building homes, so that I would get even more out of the experience than I already was.
 
-For Paul's birthday, I snuck into the shop with a couple other student's and we built and hung this sign! We installed bulbs around the perimeter and a remote control LED light strip so that the "SHOP" text could change color, and we cannibalizaed a box fan motor so that the saw blade spins.
+For Paul's birthday, I snuck into the shop with a couple other students (with the blessing of the rest of the department) and we built and hung this sign! We installed bulbs around the perimeter and a remote control LED light strip so that the "SHOP" text could change color, and we cannibalizaed a box fan motor so that the saw blade spins.
 
 ![A set](/images/build/vassar/paulsshop.jpg)
 
