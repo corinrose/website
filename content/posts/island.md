@@ -36,7 +36,7 @@ We started work on the pavilion foundation with Mike's excavator as soon as we g
 
 ![Starting to dig the piers for the pavilion foundation](/images/build/island/foundation.jpg)
 
-Once we poured the concrete, we started framing. In order to support the truck the client wanted, we framed 12" O.C. with 2"x10" joists. I cut every single one of these framing members to size, and loaded them into a truck so we could bring them from our chop saw station over to the site and assemble the frames in place.
+Once we poured the concrete, we started framing. In order to support the truck the client wanted, we framed 12" O.C. with 2"x10" joists. I cut every single one of these framing members to size, and loaded them into a truck so we could bring them from our chop saw station over to the site and assemble the frames in place. That took a while!
 
 
 ![Pavilion floor box in place](/images/build/island/frame.jpg)
@@ -50,15 +50,23 @@ While we finished up the beams, we got our trusses delivered on the barge. With 
 
 ![Trusses piled near the pavilion](/images/build/island/trusses.jpg)
 
-It was at this point that we realized that we had not really figured out how we'd raise these trusses without a crane. I knew going into this project that it was ambitious, and that we would run into this kind of problem. We started brainstorming if this was something we could do with the resources we had while we continued with the rest of the build.
+It was at this point that we realized that we did not have a clear enough plan for how we'd raise these trusses without a crane. I knew going into this project that it was ambitious, and that we would run into this kind of problem. We started brainstorming if this was something we could do with the resources we had while we continued with the rest of the build.
 
 ![Beams complete, contemplating the trusses](/images/build/island/contemplating_trusses.jpg)
 
-We developed a plan to hang the trusses on the beams upside down, and using a byzantine rope system we came up with, flip the trusses around and install them. We brought in the client and had them bring their strongest friends and family to help for truss raising day.
+We developed a plan to hang the trusses with the help from the client and number of their family and friends. We started by lifting them onto the beams upside down, with two of us at the hinge on staging. We had four lines of rope affixed to the top of the truss. One person stood in of the pavilion, one person behind, and two people on either side. We fabricated a fork out of 2x4 that I used to guide and support the truss which we termed the "bident," like a trident but with two prongs. 
 
-{{< youtube zqLewFbv-u0 >}}
+I was the only person who needed to get under the truss during this process, and I had the added responsibility of keeping a high-level watch of the entire site and ensuring that everyone (myself included) was clear of danger and had an unobstructed exit path. We went over the plan in detail with everyone and made sure they knew to act quickly without hesitation if I called for them to get out of the way, and that they were aware exactly where to run. As we progressed, I checked in on everyone throughout the day to make sure we were prepared and safe.
 
-It took an entire day, but the trusses went up smoothly with no issues. At this point, it really started to look like a structure! 
+{{< youtube id=zqLewFbv-u0 start=310 >}}
+
+You can see in the video above, the two people on either side of the pavilion had their ropes draped over the beams. I got the lift started by hand so that they could then pull the truss up. As they lifted the truss, I grabbed my "bident" and engaged it with the top of the truss and the two of us on the staging got into position to continue the lift. Once the truss was parallel with the ground the ropes on the side could no longer help, but I was able to rest the fork on the deck to support the truss if anyone needed a moment to ensure they are ready for the next phase.
+
+At this point, I used the fork to lift the truss as much as I could so that they could take over from the staging and get the truss into position. This took a lot of strength from both of them! 
+
+As we progressed, we had to make minor modifications to account for the position of the beams in front and back. The two people on ropes in front of and behind the pavilion were in some cases able to help lift from those positions, but their primary role was to provide tension and be ready to pull if momentum started to take the truss past vertical. Once the trusses were up, we shifted them side to side and forward and back as needed to line up on our pre-marked locations, and we used 10" RSS to tie them into the beams.
+
+After they were all up, we installed some temporary diagonal bracing. It took an entire day, but the trusses went up smoothly with no issues. At this point, it really started to look like a structure!
 
 ![The pavilion with the trusses installed](/images/build/island/trusses_installed.jpg)
 
