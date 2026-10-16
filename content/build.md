@@ -23,38 +23,44 @@ This was my largest solo build to date! The wraparound stairs in particular were
 
 ![Deck](/images/build/slocum/stairs.jpg)
 
-# Skin on Frame Canoe, Waitsfield Vermont
-
-![Canoe](/images/build/canoe.jpg)
-
-A friend and I attended Yestermorrow's canoe building class, where we learned the traditional method of building a skin-on-frame canoe, which is in many ways more similar to basket weaving than the woodworking and carpentry I've done professionally. We utilized a lot of steam bending which I was excited to learn about. We then skinned the canoe using fiberglass and a few layers of polyurethane, in place of the traditional animal hyde.
-
-![Canoe](/images/build/canoe_water.jpg)
-
-I've largely learned carpentry by doing it in the field, so I was excited by this opportunity to be in a classroom and learn some skills that were outside of my expertise!
-
 # Savu Sauna, Burlington Vermont
 
 ![Saunas](/images/build/savu/double_sauna1.jpg)
 
-In collaboration with two friends, I built saunas for the Burlington, Vermont based Savu Sauna. Initially focusing on optimizing the build process to improve the longevity and function of the saunas, we then worked with Savu to make significant improvements to the design. As the only member of the team who had previous shop experience, I took the lead on managing and improving the shop space, building improved material storage, reorganizing to improve efficiency and ease of use, maintaining tools, and ensuring safety.
+In collaboration with two friends, I built saunas for the Burlington, Vermont based [Savu Sauna](https://www.savu.cc/). Initially focusing on optimizing the build process to improve the longevity and function of the saunas, we then worked with Savu to make significant improvements to the design. As the only member of the team who had previous shop experience, I took the lead on managing and developing the shop space. This included building better material storage, installing a dust collection system, building a white board on wheels and some tool carts, maintaining tools, and ensuring safety.
 
+
+![Saunas](/images/build/savu/tracksaw.jpg)
 
 ![Saunas](/images/build/savu/double_sauna.jpg)
 
-The talented and creative owners of Savu have a very clear and stunning aesthetic vision, but we were able to work with them to vastly improve the efficiency, sustainability, and ease of building of their saunas while maintaining their aesthetics. This was an excellent opportunity for me to gain a deeper understanding of the entire build process from frame to finish, learn more about building science, and to really hone my finish skills. We were also able to work with some absolutely stunning materials, such as Nakaomoto (yakisugi) and high end clear vertical grain cedar.
+The talented and creative owners of Savu have a very clear and stunning aesthetic vision. We were able to work with them to vastly improve the efficiency, sustainability, and ease of building of their saunas while maintaining their aesthetics. This was an excellent opportunity for me to gain a deeper understanding of the entire build process from frame to finish, learn more about building science, and to really hone my finish skills. You can see some of this work on the cedar interior of our first sauna that we built in the mountains of Georgia.
 
-![Saunas](/images/build/savu.jpg)
+![Saunas](/images/build/savu/georgia_int.jpg)
 
-Much of our work was building small saunas that Savu sold outright to folks for their properties. We did have some unique jobs as well, and we were deeply involved in the design process for the saunas currently operating at Madbush Falls in Waitsfield Vermont. These saunas are owned by Savu and booked out by the hour. Some of my notable design contributions are advocating firmly for continuous exterior insulation which vastly increases the energy efficiency and reduces the operating costs of these saunas, designing from scratch a floor system that included a linear drain to allow people to steam the saunas if they choose, and redesigning the interior cedar window trim to allow the siding to expand and contract freely with the temperature and humidity changes while keeping any gaps hidden.
+We were able to work with some absolutely stunning materials, such as Nakomoto's [shou sugi ban collection](https://nakamotoforestry.com/products/shou-sugi-ban/). You can see both Pika-Pika and Gendai siding on exterior of the same Sauna in Georgia.
+
+![Saunas](/images/build/savu/georgia_front.jpg)
+
+Much of our work was building saunas in the shop as orders came in, iterating on the same model with variations in siding, and optimizing our process. We did have some other jobs as well, and we were deeply involved in the design process for the saunas currently operating at [Madbush Falls](https://www.madbushfalls.com/) in Waitsfield, Vermont. These saunas are owned by Savu and booked out by the hour. Some of my notable design contributions are advocating for continuous exterior insulation which vastly increases the energy efficiency and reduces the operating costs of these saunas, designing from scratch a floor system that included a linear drain to allow people to steam the saunas if they choose, and redesigning the interior window trim to allow the cedar to expand and contract freely with the temperature and humidity changes while keeping any gaps hidden.
 
 ![Saunas](/images/build/savu/madbush_build.jpg)
 
-![Saunas](/images/build/savu/madbush_ext.png)
+![Saunas](/images/build/savu/madbush_ext.jpg)
 
-![Saunas](/images/build/savu/madbush_int.png)
+![Saunas](/images/build/savu/madbush_int.jpg)
 
-These saunas at Madbush Falls were featured in [this New York Times article](https://www.nytimes.com/2026/03/10/travel/affordable-wellness-vacations.html)!
+These saunas at Madbush Falls were mentioned in this [New York Times article](https://www.nytimes.com/2026/03/10/travel/affordable-wellness-vacations.html)!
+
+# Skin on Frame Canoe, Waitsfield Vermont
+
+![Canoe](/images/build/canoe.jpg)
+
+A friend and I attended Yestermorrow's canoe building class, where we learned the traditional method of building a skin-on-frame canoe. This is in many ways more similar to basket weaving than the woodworking and carpentry I've done professionally. We utilized a lot of steam bending which I was excited to learn about. We then skinned the canoe using fiberglass and a few layers of polyurethane, in place of the traditional animal hyde.
+
+![Canoe](/images/build/canoe_water.jpg)
+
+I've largely learned carpentry by doing it in the field, so I was excited by this opportunity to be in a classroom and learn some skills that were outside of my expertise!
 
 # Structural Repair, Essex Vermont
 
@@ -64,9 +70,9 @@ While working for a contractor based out of Shelburne, Vermont, I did a mix of c
 
 The contractor I was working under designed and spec'd out a repair where we replaced this split beam with two LVL's spanning the full length of the opening, so that we could install posts and effectively transfer the load to the main beam running through the center of the house and to the foundation wall, and open up the space in the process. 
 
-{{< youtube XVVe9Ru6IpU >}}
-
 Having done a number of smaller structural repairs, I led our team of me and two helpers to jack up the second floor with a temporary beam, cut out the old beam, and install the doubled LVL beam and posts.
+
+{{< youtube XVVe9Ru6IpU >}}
 
 ![Structural repair after](/images/build/structural_repair2.jpg)
 
