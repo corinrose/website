@@ -6,9 +6,9 @@ date: 2022-09-14
 
 ![Raising the trusses](/images/build/bremen/truss.jpg)
 
-While finishing up my semester as a part-time math instructor at Kent's Hill School, my friend Bjorn reached out about a very intriguing carpentry project. His very successful friend from college had purchased a couple acres on Bremen Long Island, off the coast of Damariscotta, Maine and was in the process of developing it. They had some areas cleared, brought in gravel and laid out a road from the dock to a few build sites, and had a small cabin and a few storage sheds built by another developer. 
+While finishing up my semester as a part-time math instructor at Kent's Hill School, my friend reached out about a very intriguing carpentry project. His very successful friend from college had purchased a couple acres on Bremen Long Island, off the coast of Damariscotta, Maine and was in the process of developing it. They had some areas cleared, brought in gravel and laid out a road from the dock to a few build sites, and had a small cabin and a few storage sheds built by another developer. 
 
-The client's wedding was later that summer, and they wanted to build a large pavilion to host the reception for the wedding, and to later be used to host an array of solar panels and as a covered area to park a truck they'd keep on the island. They also wanted a few tent platforms to host guests, and an outhouse with a composting toilet. Bjorn leveraged his architecture background to design and plan these builds.
+The client's wedding was later that summer, and they wanted to build a large pavilion to host the reception for the wedding, and to later be used to host an array of solar panels and as a covered area to park a truck they'd keep on the island. They also wanted a few tent platforms to host guests, and an outhouse with a composting toilet. My friend leveraged his architecture background to design and plan these builds.
 
 There was no bridge to the mainland, and the property was largely undeveloped. So we knew there would be challenges. With four years of theatrical carpentry under my belt, a one car garage I'd built, and various smaller projects along the way I was excited by the opportunity to stretch my carpentry legs! 
 
@@ -19,7 +19,7 @@ We initially spent two weeks on the island, insulating and installing tongue and
 
 We took this two weeks to take stock of the work to be done, and make a plan. We determined that every trip to and from the island would require setting up our camp and our tools, just to break them down. Our initial plan of working a week or two at a time through the summer seemed infeasible. We also realized we absolutely needed another person to get this work done.
 
-Bjorn reached out to his childhood friend and fellow carpenter Pete who lived nearby in Maine, and we all decided to camp out for a full month on the island so that we could really buckle down. 
+My friend reached out to his childhood friend and fellow carpenter Pete who lived nearby in Maine, and we all decided to camp out for a full month on the island so that we could really buckle down. 
 
 We knew it'd be a challenge, but we had these sunsets to look forward to every night. If you've never been to Maine, there is something indescribable about the sunsets over the ocean. There's a reason Maine has been home to several notable impressionist painters!
 
@@ -41,7 +41,7 @@ Once we poured the concrete, we started framing. In order to support the truck t
 
 ![Pavilion floor box in place](/images/build/bremen/frame.jpg)
 
-We set the posts. Then, Bjorn and I began laminating the beams in place while Pete decked the pavilion with 2"x6".
+We set the posts. Then, my friend and I began laminating the beams in place while Pete decked the pavilion with 2"x6".
 
 
 ![Posts set, beams in process of being laminated](/images/build/bremen/beams_progress.jpg)
@@ -50,7 +50,7 @@ While we were finished up the beams, we got our trusses delivered on the barge. 
 
 ![Trusses piled near the pavilion](/images/build/bremen/trusses.jpg)
 
-It was at this point that Pete and I realized that Bjorn had not really thought through how we'd raise these trusses without a crane. I knew going into this project that it was ambitious, and that we would run into this kind of problem. We started brainstorming if this was something we could do with the resources we had while we continued with the rest of the build.
+It was at this point that we realized that we had not really figured out how we'd raise these trusses without a crane. I knew going into this project that it was ambitious, and that we would run into this kind of problem. We started brainstorming if this was something we could do with the resources we had while we continued with the rest of the build.
 
 ![Beams complete, contemplating the trusses](/images/build/bremen/contemplating_trusses.jpg)
 
