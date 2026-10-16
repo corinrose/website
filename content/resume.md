@@ -23,7 +23,7 @@ Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.web
 ### Trade & Project Management
 
 * **Carpenter** | Self-employed (July 2022 – Present)
-  * Built a 20x30 pavilion for a wedding on Bremen Long Island in Maine.
+  * Built a 20x30 pavilion for a wedding on an island in Muscongus Bay, Maine.
   * Performed renovation work on multiple homes built before 1900 in Maine and Vermont.
   * Completed minor structural work, additions, building efficiency improvements, and aesthetic restoration work.
 

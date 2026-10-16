@@ -53,4 +53,4 @@ One of these students had excellent English. He clearly wanted to be a bit of a 
 
 You can see the lecture slides, homeworks, quizzes, handouts, and tests I developed for this course [here](https://drive.google.com/drive/folders/13d-mMDZPWeNaqbig4O_LNMdGh2TTo29j?usp=sharing).
 
-Kents Hill School offered me a full time position and to fund a Master's in Education at the University of Maine in Farmington, but I'd been contacted about doing the carpentry work on Bremen Long Island referenced on my build portfolio, which was too interesting of a project to turn down!
+Kents Hill School offered me a full time position and to fund a Master's in Education at the University of Maine in Farmington, but I'd been contacted about doing the carpentry work on an island in Muscongus Bay, Maine referenced on my build portfolio, which was too interesting of a project to turn down!

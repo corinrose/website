@@ -76,15 +76,15 @@ Having done a number of smaller structural repairs, I led our team of me and two
 
 ![Structural repair after](/images/build/structural_repair2.jpg)
 
-# Post and Beam Pavilion, Bremen Long Island Maine
+# Post and Beam Pavilion, Muscongus Bay Maine
 
-![Pavilion](/images/build/bremen/pavilion1.jpg)
+![Pavilion](/images/build/island/pavilion1.jpg)
 
-I spent most of a summer camped out on Bremen Long Island off the coast of Maine with two carpenter friends. Our main project was the 20' x 30' pavilion pictured above, and we also built a few tent platforms, an outhouse, and we insulated and finished a cabin. This pavilion was built to host the reception of the client's wedding later that summer, and was also engineered to support the weight of the client's truck for future storage. It was also built to host an array of solar panels. 
+I spent most of a summer camped out on an island in Muscongus Bay off the coast of Maine with two carpenter friends. Our main project was the 20' x 30' pavilion pictured above, and we also built a few tent platforms, an outhouse, and we insulated and finished a cabin. This pavilion was built to host the reception of the client's wedding later that summer, and was also engineered to support the weight of the client's truck for future storage. It was also built to host an array of solar panels. 
 
 Island builds, we learned, are a unique challenge. We were lucky to have the help and advice of a local who had experience with island builds, and owned a barge to transport materials to the island and some other heavy equipment we made great use of to build the foundation. We however learned that raising trusses on an island without a crane is difficult. See my [blog post](/posts/island) for the full story!
 
-![Pavilion](/images/build/bremen/pavilion_progress.jpg)
+![Pavilion](/images/build/island/pavilion_progress.jpg)
 
 # One Car Garage, Jonesboro Maine
 
