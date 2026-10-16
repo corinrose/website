@@ -102,7 +102,9 @@ This was the first project where I was fully in charge of the build process. I c
 
 I worked in the Vassar Drama Department through all four years at Vassar, senior year serving both as the Assistant Technical Director for the department and as the Teaching Assistant for two sections of Drama 103, Intro to Stagecraft. In this time, I built sets, props, and implemented special effects. I gained a lot of experience using power tools, and learned a broad range of skills from painting flats to upholstering furniture. I worked closely with set designers, directors, and the rest of the production team to bring their creative vision to life. 
 
-As the years progressed, I took a more active role in managing the shop, ensuring safe operation of tools, and managing build teams, especially when we had multiple sets being built across the different theatres. The brilliant and creative Paul O'Connor, Technical Director for the Vassar Drama Department, taught me a great deal about carpentry, shop work, managing a team, and most of all bringing an infectious positivity to the job that brings everyone together. 
+As the years progressed, I took a more active role in managing the shop, ensuring safe operation of tools, and managing build teams, especially when we had multiple sets being built across the different theatres--including the [Powerhouse Theatre](https://www.vassar.edu/stories/2019/190424-powerhouse-theater-announces-stellar-2019-lineup.html), where Hamilton was first workshopped! 
+
+The brilliant and creative Paul O'Connor, Technical Director for the Vassar Drama Department, taught me a great deal about carpentry, shop work, managing a team, and most of all bringing an infectious positivity to the job that brings everyone together. 
 
 Paul always had a trick for how to make something look worn in just the right way, or how to get something done faster than you'd think possible and ready for rehearsal later that night. He also went out of his way to teach me skills that I still utilize to this day--like taking the extra time to frame out structures using the same methods we do for building homes, so that I would get even more out of the experience than I already was.
 
@@ -110,7 +112,7 @@ For Paul's birthday, I snuck into the shop with a couple other students (with th
 
 ![A set](/images/build/vassar/paulsshop.jpg)
 
-I was also immensely spoiled working in such a clean, organized, well-outfitted shop. I never had to think about ordering materials or build anything that could stand up to weather. We made an active effort to build our set pieces so that we could break them down and reuse them in future productions, but our sets only had to last the length of the production and were only seen from the audience's perspective 20+ feet away, from a few particular angles. When I eventually transitioned into doing exterior work in the field, a lot of my skills transferred, but I had a whole new category of skills to master!
+I was also immensely spoiled working in such a clean, organized, well-outfitted shop with an incredible mentor. I never had to think about ordering materials or build anything that could stand up to weather. We made an active effort to build our set pieces so that we could break them down and reuse them in future productions, but our sets only had to last the length of the production and were only seen from the audience's perspective 20+ feet away, from a few particular angles. When I eventually transitioned into doing exterior work in the field, a lot of my skills transferred, but I had a whole new category of skills to master!
 
 ![A set](/images/build/vassar/set.jpg)
 

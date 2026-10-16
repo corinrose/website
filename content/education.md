@@ -30,6 +30,8 @@ This year, we took our existing lectures on the fundamentals of Python programmi
 
 # Vassar CS Summer Camp
 
+![Vassar CS Summer Camp during Prof. Waterman's lecture, featuring me in the blue baseball cap at the bottom](/images/education/cscamp.jpg)
+
 Following the success of these courses, Jason Waterman, my favorite CS professor at Vassar, reached out to me and my friend Ian who were the principal content writers for the program about teaching a more extensive summer CS camp aimed in particular at Vassar students who had no background in computer science. This course was loosely based on Harvey Mudd's introduction to computer science as well as Prof. Waterman's and our lecture material, with the hope being to eventually replace Vassar's existing CMPU101 introductory class, which taught Scheme and was overly focused on theory and not up to date with modern programming techniques. 
 
 This course was six weeks long, five days a week. The first four weeks were structured with a lecture from Prof. Waterman in the morning, and then after lunch a shorter lecture from Ian and I with a project we had prepared that the students could work on with our help. The final two weeks, we helped the students develop ideas for projects and implement them.
