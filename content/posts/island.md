@@ -6,7 +6,7 @@ date: 2022-09-14
 
 ![Raising the trusses](/images/build/island/truss.jpg)
 
-While finishing up my semester as a part-time math instructor at Kents Hill School, my friend reached out about a very intriguing carpentry project. His friend from college had purchased a couple acres on an island in Muscongus Bay off the coast of Maine and was in the process of developing it. They had some areas cleared, brought in gravel and laid out a road from the dock to a few build sites, and had a small cabin and a few storage sheds built by another developer. 
+While finishing up my semester as a part-time math instructor at Kents Hill School, my friend reached out about a very intriguing carpentry project. His friend had purchased a couple acres on an island in Muscongus Bay off the coast of Maine and was in the process of developing it. They had some areas cleared, brought in gravel and laid out a road from the dock to a few build sites, and had a small cabin and a few storage sheds built by another developer. 
 
 The client's wedding was later that summer, and they wanted to build a large pavilion to host the reception for the wedding, and to later be used to host an array of solar panels and as a covered area to park a truck they'd keep on the island. They also wanted a few tent platforms to host guests, and an outhouse with a composting toilet. My friend leveraged his architecture background to design and plan these builds.
 
