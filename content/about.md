@@ -6,7 +6,7 @@ draft: false
 
 # Hi, I'm Corin.
 
-I’m a carpenter, project manager, and technical mentor with a background in Mathematics and Computer Science from Vassar College. I've spent my career bridging abstract problem-solving--from building tech infrastructure as a startup CTO to teaching high school math--with physical, hands-on craft. Below is the full, unabridged story of how I got here.
+I’m a carpenter, project manager, and technical mentor with a background in Mathematics and Computer Science from Vassar College. I've spent my career bridging abstract problem-solving--from building tech infrastructure as a startup CTO to teaching high school math--with physical, hands-on craft. Below is the full story of how I got here.
 
 ![Corin building a deck](/images/deck.jpg)
 
