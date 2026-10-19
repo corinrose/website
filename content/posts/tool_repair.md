@@ -18,7 +18,9 @@ They said the backer pad was falling apart and the cable had a bit of minor dama
 
 Turns out there was actually a safety recall for this pad--as it breaks down over time, it becomes brittle and chunks start to fly off of it if you try to run it! I took the pad off and found that, unfortunately, this exact model was only briefly produced before they changed the way the pad mounts onto the tool, and so the part I'd found would not be compatible, and in fact I could not find a replacement anywhere. 
 
-After some research, I decided to try scraping the decrepid foam off of the pad and re-using the metal piece that mounted onto the tool. This metal piece had a bearing that was held in place by a plate with four screws. This bearing is what gave the sander it's orbital motion. I wanted to try and get a new pad and affix it to the metal piece, essentially using it as an adapter. I considered using glue or epoxy, but I with no way to replace this part I wanted to be able to disassemble it if needed. 
+![](/images/posts/tool_repair/sander_open.jpg)
+
+After some research, I decided to try scraping the decrepid foam off of the pad and re-using the metal piece that mounted onto the tool. This metal piece had a bearing that was held in place by a plate with four screws. This bearing is what gave the sander it's orbital motion. I wanted to try and get a new pad and affix it to the metal piece, essentially using it as an adapter. I considered using glue or epoxy, but with no way to replace this part I wanted to be able to disassemble it if needed. 
 
 I got a cheap Ryobi backer pad with four mounting screws just to put them next to each other and see if I had any brilliant ideas. I was going to get a thread tapper to create mounting holes in the metal piece, but then I realized an incredible coincidence: the four screws that held the bearing in place somehow lined up perfectly with the four holes on the Ryobi backer! The holes were however on the back of the piece, rather than the front. 
 
