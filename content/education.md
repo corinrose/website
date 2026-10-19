@@ -40,6 +40,28 @@ The content we wrote for this course can be found on this [GitHub repository](ht
 
 You can also check out this [article](https://www.vassar.edu/stories/2018/180906-coding-class.html) about the summer program.
 
+# Shop Education
+
+While I was at Vassar, I also worked in the Drama Department for four years. I started my first year as a Theatrical Journeyman in the scene shop. I had some experience with power tools and was very comfortable around the theatre--for much of my childhood my dad was a Drama Professor at the local college. I'd also co-founded the Drama club at my high school, and acted in and stage managed various productions.  
+
+As time went on, I quickly took a leadership role in the scene shop. Working under the brilliant Technical Director Paul O'Connor, we had a team of about 10 students with varying experience and interests. Some of us were primarily builders, some of us primarily artists.
+
+By my senior year, I was the Assistant Technical Director of the Drama Department, and I also worked as a Teaching Assistant for two sections of Drama 103, Introduction to Stagecraft.
+
+![](/images/education/scene_shop.jpg) 
+
+The department required that every student in each production work in the scene shop, costume shop, or help the lighting crew. So, we would often get help from drama students with a range of experience and comfort with power tools and set building. A big part of our job was evaluating the abilities of these students, and giving them tasks that were safe and appropriate for them, including any necessary instruction and training.
+
+Over time, I gained a lot of experience instructing these students how to safely use everything from drills to miter saws to table saws, which we generally only allowed experienced members of the scene shop to use. In this time, I also learned a great deal about safe and efficient power tool use. I studied what exactly can go wrong with different tools, especially the table saw, and how to avoid it. 
+
+My senior year, Paul was unexpectedly only available about half the time he normally would've been in the shop. This was hard for everyone, but it also gave me the opportunity to take on an even greater leadership role as the Assistant Technical Director. I regularly ran the shop and directed our team while he was unavailable. 
+
+This year, I also was the Teaching Assistant for Paul's two sections of Drama 103, Introduction to Stagecraft. We taught set and prop building, how to run the fly system, and basic sound & lighting design and operation. We also went into more detail with power tool operation and shop safety. Although normally just there to help out, with Paul's availability this year I often led the classes entirely on my own, following Paul's curriculum closely.
+
+This included teaching both sections of the class safe power tool use, and having them break off into groups to work on a selection of simple woodworking projects. This mostly required the miter saw and some hand tools, but the students did need to make a few simple cuts on the table saw. This was only an option in this setting thanks to our SawStop cabinet saw, which detects any contact with the blade and engages a brake to stop the blade in a few milliseconds. Even still, we treated the table saw as a dangerous tool to be immensely careful with. The students were only allowed to make these cuts under strict supervision, after I demoed in detail how to safely make the cut and exactly where to hold their hands and apply pressure. Students of course were not required to do so--I made the cuts for them if they were at all uncomfortable.
+
+I'm glad to say there was never an incident where the SawStop brake was triggered, or any injury that required more than a bandaid, while I was in charge! Following this experience, I have remained very safety oriented in my carpentry work, and generally take the lead on ensuring job site safety and proper tool use.
+
 # Math Instruction, Kents Hill School
 
 ![Kents Hill School from above](/images/education/khs.jpg)
