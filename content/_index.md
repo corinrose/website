@@ -12,7 +12,7 @@ Take a look at my [build](/build) page which shows off some of the cool carpentr
 
 Head over to my [resume](/resume) to get a sense of my professional and academic background.
 
-My [education](/education) page details my volunteer and professional experience as an educator.
+My [education](/education) page details my professional and volunteer experience as an educator.
 
 <!-- Check out my [tutoring](/tutoring) page to learn more about my 1-on-1 STEM coaching practice. -->
 
