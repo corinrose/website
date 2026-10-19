@@ -6,7 +6,7 @@ draft: false
 
 # Hello!
 
-I'm Corin--builder and educator. 
+I'm Corin, builder and educator. I love creative problem solving: taking the time to really understand complex systems, explaining how they work, and fixing what's not working.
 
 Take a look at my [build](/build) page which shows off some of the cool carpentry projects I've worked on!
 
