@@ -16,4 +16,8 @@ My [education](/education) page details my volunteer and professional experience
 
 <!-- Check out my [tutoring](/tutoring) page to learn more about my 1-on-1 STEM coaching practice. -->
 
+### Say hi!
+
+The best way to reach me is by email: [contact@corin.website](mailto:contact@corin.website)
+
 ![Corin in the winter mountains](/images/winter.jpg)
