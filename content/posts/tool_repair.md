@@ -1,5 +1,5 @@
 ---
-title: "The Art of Keeping Old Gear Alive"
+title: "Keeping Old Gear Alive"
 draft: false
 date: 2026-10-05
 ---
