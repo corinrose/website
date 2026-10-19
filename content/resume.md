@@ -19,13 +19,15 @@ draft: false
 ### Trade & Project Management
 
 * **Carpenter** | Self-employed (July 2022 – Present)
-  * Built a 20x30 pavilion for a wedding on an island in Muscongus Bay, Maine.
-  * Performed renovation work on multiple homes built before 1900 in Maine and Vermont.
-  * Completed minor structural work, additions, building efficiency improvements, and aesthetic restoration work.
+  * Worked as carpenter, designer, and project manager on wide range of projects
+  * Extensive experience doing renovation work and minor structural repairs on homes built before 1900 in Maine and Vermont, including both restoration and modernization
+  * Designed and installed high end finish work including trim and custom closets
+  * Built and fixed decks and sheds
+  * Recommended and installed energy efficiency improvements
 
 * **Project Manager & Carpenter** | Blair Custom Builders (January 2026 – July 2026)
-  * Directed residential carpentry projects across Western Vermont, managing full lifecycles from estimating and client communications to budget tracking.
-  * Led on-site crews of carpenters delivering custom decks, structural repairs, kitchen and bathroom remodels, and fine finish work.
+  * Directed residential carpentry projects across Western Vermont, managing full lifecycles from estimating and client communications to budget tracking
+  * Led on-site crews of carpenters delivering custom decks, structural repairs, kitchen and bathroom remodels, and fine finish work
 
 * **Partner & Carpenter** | Abacus Design Build (March 2023 – June 2024)
   * Maintained an exclusive contract with Savu Sauna.
@@ -35,6 +37,11 @@ draft: false
 
 * **Assistant Technical Director** | Vassar College (August 2019 – May 2020)
   * Trained students to safely use power tools and led student teams during builds.
+  * Managed shop and ensured safe and efficient operation of tools.
+  * Continued responsibilities of Theatrical Journeyman below.
+
+* **Theatrical Journeyman** | Vassar College (August 2016 – August 2019)
+  * Worked closely with designers to implement their visions.
   * Built sets and props for the Drama Department's three theatres.
 
 ### Engineering, Tech & Leadership
@@ -47,10 +54,16 @@ draft: false
 * **Technology Director** | WVKR-fm (2017 – 2020)
   * Managed IT for independent radio station in Poughkeepsie, NY. Maintained website and a broadcast automation & streaming system that ran 24/7 for the station, ensuring compliance with FCC regulations
 
+* **Research Fellow** | Vassar College (Summer 2019)
+  * Worked with a professor at Vassar College in collaboration with the Small Data Lab at Cornell Tech
+  * Developed web front end for [Ancile](https://github.com/ancile-project/ancile), a privacy aware data management platform
+
 * **Blockchain Consulting** | Fitzner Blockchain Consulting (2018 – 2020)
-  * Occasionally subcontracted to review token sale whitepapers, evaluating technical feasibility and suggesting logic or technology changes.
+  * Subcontracted to review token sale whitepapers, evaluating technical feasibility and suggesting logic or technology changes.
 
 * **Penetration Testing Contractor** | aizoOn Technology Consulting (2016)
+  * Evaluated cybersecurity risks for aizoOn's Internet connected smart microbrewery, including informational risks such as loss of trade secrets and physical risks such as heating systems being hijacked and damaging equipment or harming people
+  * Determined attack vectors and recommendations for increased security
 
 ### Education & Instruction
 
@@ -67,7 +80,7 @@ draft: false
   * Helped establish curriculum that was further developed into an alternative introductory computer science course at Vassar.
 
 * **Google igniteCS Student Leader** (Volunteer) | Vassar College (2017 – 2019)
-  * Led a team of ~20 Vassar students teaching local high school students how to code in Python across a 10-week curriculum covering data science and blockchains.
+  * Led a team of ~20 Vassar students teaching local middle school students how to code in Python across a 10-week curriculum covering data science and blockchains.
 
 ---
 
