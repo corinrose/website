@@ -1,6 +1,5 @@
 ---
 title: "Resume"
-date: 2026-10-13
 draft: false
 ---
 
