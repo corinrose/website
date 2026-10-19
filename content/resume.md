@@ -5,18 +5,14 @@ draft: false
 ---
 
 # Corin Rose
-Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.website](https://www.corin.website)
-
----
 
 ## Education
 
 * **Vassar College**, New York
-  * Bachelor of Arts in Mathematics and Computer Science, 2020
+  * B.A. in Mathematics and Computer Science, 2020
 * **Maine School of Science and Mathematics (MSSM)**
   * High School Diploma, 2016
 
----
 
 ## Professional Experience
 
@@ -47,6 +43,9 @@ Essex Junction, Vermont | coringrose@gmail.com | (207)-263-8964 | [www.corin.web
   * Developed a prototype and patented mobile advertising platform.
   * Secured the initial funding round and hired a software and hardware team.
   * Oversaw the development and launch of the platform in Manhattan.
+
+* **Technology Director** | WVKR-fm (2017 – 2020)
+  * Managed IT for independent radio station in Poughkeepsie, NY. Maintained website and a broadcast automation & streaming system that ran 24/7 for the station, ensuring compliance with FCC regulations
 
 * **Blockchain Consulting** | Fitzner Blockchain Consulting (2018 – 2020)
   * Occasionally subcontracted to review token sale whitepapers, evaluating technical feasibility and suggesting logic or technology changes.
