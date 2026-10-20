@@ -54,7 +54,7 @@ It was at this point that we realized that we did not have a clear enough plan f
 
 ![Beams complete, contemplating the trusses](/images/build/island/contemplating_trusses.jpg)
 
-We developed a plan to hang the trusses with the help from the client and number of their family and friends. We started by lifting them onto the beams upside down, with two of us at the hinge on staging. We had four lines of rope affixed to the top of the truss. One person stood in of the pavilion, one person behind, and two people on either side. We fabricated a fork out of 2x4 that I used to guide and support the truss which we termed the "bident," like a trident but with two prongs. 
+We developed a plan to hang the trusses with help from the client and a number of their family and friends. We started by lifting them onto the beams upside down, with two of us at the hinge on staging. We had four lines of rope affixed to the top of the truss. One person stood in front of the pavilion, one person behind, and two people on either side. We fabricated a fork out of 2x4 that I used to guide and support the truss which we termed the "bident," like a trident but with two prongs. 
 
 I was the only person who needed to get under the truss during this process, and I had the added responsibility of keeping a high-level watch of the entire site and ensuring that everyone (myself included) was clear of danger and had an unobstructed exit path. We went over the plan in detail with everyone and made sure they knew to act quickly and without hesitation if I called for them to get out of the way, and that they were aware exactly where to run. As we progressed, I checked in on everyone throughout the day to make sure we were prepared and safe.
 

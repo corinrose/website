@@ -102,7 +102,7 @@ This was the first project where I was fully in charge of the build process. I c
 
 I worked in the Vassar Drama Department through all four years at Vassar, senior year serving both as the Assistant Technical Director for the department and as the Teaching Assistant for two sections of Drama 103, Intro to Stagecraft. In this time, I built sets, props, and implemented special effects. I gained a lot of experience using power tools, and learned a broad range of skills from painting flats to upholstering furniture. I worked closely with set designers, directors, and the rest of the production team to bring their creative vision to life. 
 
-As the years progressed, I took a more active role in managing the shop, ensuring safe operation of tools, and managing build teams, especially when we had multiple sets being built across the different theatres--including the [Powerhouse Theatre](https://www.vassar.edu/stories/2019/190424-powerhouse-theater-announces-stellar-2019-lineup.html), where Hamilton was first workshopped! 
+As the years progressed, I took a more active role in managing the shop, ensuring safe operation of tools, and managing build teams, especially when we had multiple sets being built across the different theatres. One of these was the black box Powerhouse Theatre, the [birthplace of Hamilton](https://playbill.com/article/whats-in-store-for-the-summer-theatre-that-brought-us-hamilton).
 
 The brilliant and creative Paul O'Connor, Technical Director for the Vassar Drama Department, taught me a great deal about carpentry, shop work, managing a team, and most of all bringing an infectious positivity to the job that brings everyone together. 
 
