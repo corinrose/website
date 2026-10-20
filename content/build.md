@@ -9,7 +9,7 @@ Since 2016, I've worked on numerous build projects. My involvement has included 
 
 # Black Locust Deck, South Burlington Vermont
 
-![Deck](/images/build/slocum/slocum2.jpg)
+![Deck](/images/build/deck/deck2.jpg)
 
 I demoed and re-built a 16' x 50' deck with wraparound stairs. It was a collaborative process--the client did the majority of the design work, including picking out the beautiful, long-lasting, and sustainable [Black Locust](https://robidecking.com/products/black-locust-decking/) from Robi Decking. Originally the job was just to replace a few rotten deck boards, but upon investigation I found significant rot on the framing and serious structural issues with the small bumpout seen in the image above.
 
@@ -17,11 +17,11 @@ I demoed and re-built a 16' x 50' deck with wraparound stairs. It was a collabor
 
 We hired a structural engineer to develop plans for the deck that included tying the improperly supported bumpout into the new deck framing. The client wanted the option of demoing the bumpout in the future and building an addition to their home that extends out further, and so the deck framing was engineered to support that possible future addition. I completed takeoffs based on the engineer's specs and ordered framing and decking materials. We brought in GoliathTech to install the helical pier foundation and do some landscaping work and I completed the structural repair and built the rest of the deck entirely on my own.
 
-![Deck](/images/build/slocum/progress.jpg)
+![Deck](/images/build/deck/progress.jpg)
 
 This was my largest solo build to date! The wraparound stairs in particular were a challenge--the deck we were replacing had box-framed wraparound stairs, which are much easier to build but are fully enclosed and trap moisture under the deck, which was a big contributor to the rot. So we wanted this new deck to stay open and have lots of air flow.
 
-![Deck](/images/build/slocum/stairs.jpg)
+![Deck](/images/build/deck/stairs.jpg)
 
 # Savu Sauna, Burlington Vermont
 
