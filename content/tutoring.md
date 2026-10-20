@@ -47,8 +47,6 @@ Sessions take place over video with an interactive digital whiteboard setup, all
 
 * **24-Hour Notice:** Life happens, but because time slots are limited, please provide at least 24 hours notice if you need to cancel or reschedule a session.
 * **Late Cancellations:** Sessions canceled with less than 24 hours notice are charged in full.
-* **Emergencies:** Illness and unexpected emergencies are the exception. Everyone gets **one grace pass per semester** for sudden last-minute reschedules.
-
 
 ## Let's Connect
 
