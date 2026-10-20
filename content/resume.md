@@ -31,7 +31,7 @@ draft: false
 * **Partner & Carpenter** | Abacus Design Build (March 2023 – June 2024)
   * Maintained an exclusive contract with Savu Sauna.
   * Contributed to improved sauna designs using modern building science and techniques like continuous exterior insulation and engineered lumber.
-  * Led teams building residential and commercial saunas frame-to-finish, including builds at Madbush Falls featured in a *New York Times* article.
+  * Led teams building residential and commercial saunas frame-to-finish, including builds at Madbush Falls mentioned in a [New York Times article](https://www.nytimes.com/2026/03/10/travel/affordable-wellness-vacations.html).
   * Managed Savu's shop in Williston, maintaining power tools and ensuring safe tool use.
 
 * **Assistant Technical Director** | Vassar College (August 2019 – May 2020)
