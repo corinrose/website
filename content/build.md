@@ -5,9 +5,27 @@ draft: false
 
 ![Saunas at Madbush Falls](/images/build/madbush.jpg)
 
-Since 2016, I've worked on numerous build projects. My involvement has included carpentry, design, and project management work. Some projects have been highly collaborative, some have been solo endeavors. This is an incomplete showcase of selected projects from my portfolio.
+Since 2016, I've worked on numerous build projects. My involvement has included carpentry, design, and project management work. Some projects have been highly collaborative, some have been solo endeavors. These are some selected projects from my portfolio.
 
-# Black Locust Deck, South Burlington Vermont
+{{< detail-tag "Index" >}}
+
+[Black Locust Deck](#black-locust-deck-south-burlington-vermont)
+
+[Sauna Builds](#savu-sauna-burlington-vermont)
+
+[Skin-on-frame Canoe](#skin-on-frame-canoe-waitsfield-vermont)
+
+[Structural Repair](#structural-repair-essex-vermont)
+
+[Island Post and Beam Pavilion](#post-and-beam-pavilion-muscongus-bay-maine)
+
+[One Car Garage](#one-car-garage-jonesboro-maine)
+
+[Theatrical Carpentry](#theatrical-carpentry-vassar-college)
+
+{{< /detail-tag >}}
+
+### Black Locust Deck, South Burlington Vermont
 
 ![Deck](/images/build/deck/deck2.jpg)
 
@@ -23,7 +41,7 @@ This was my largest solo build to date! The wraparound stairs in particular were
 
 ![Deck](/images/build/deck/stairs.jpg)
 
-# Savu Sauna, Burlington Vermont
+### Savu Sauna, Burlington Vermont
 
 ![Saunas](/images/build/savu/double_sauna1.jpg)
 
@@ -52,7 +70,7 @@ Much of our work was building saunas in the shop as orders came in, iterating on
 
 These saunas at Madbush Falls were mentioned in this [New York Times article](https://www.nytimes.com/2026/03/10/travel/affordable-wellness-vacations.html)!
 
-# Skin on Frame Canoe, Waitsfield Vermont
+### Skin on Frame Canoe, Waitsfield Vermont
 
 ![Canoe](/images/build/canoe.jpg)
 
@@ -62,7 +80,7 @@ A friend and I attended Yestermorrow's canoe building class, where we learned th
 
 I've largely learned carpentry by doing it in the field, so I was excited by this opportunity to be in a classroom and learn some skills that were outside of my expertise!
 
-# Structural Repair, Essex Vermont
+### Structural Repair, Essex Vermont
 
 ![Structural repair before](/images/build/structural_repair1.jpg)
 
@@ -76,7 +94,7 @@ Having done a number of smaller structural repairs, I led our team of me and two
 
 ![Structural repair after](/images/build/structural_repair2.jpg)
 
-# Post and Beam Pavilion, Muscongus Bay Maine
+### Post and Beam Pavilion, Muscongus Bay Maine
 
 ![Pavilion](/images/build/island/pavilion1.jpg)
 
@@ -86,7 +104,7 @@ Island builds, we learned, are a unique challenge. We were lucky to have the hel
 
 ![Pavilion](/images/build/island/pavilion_progress.jpg)
 
-# One Car Garage, Jonesboro Maine
+### One Car Garage, Jonesboro Maine
 
 ![Garage roof](/images/build/garage_roof.jpg)
 
@@ -96,7 +114,7 @@ This was the first project where I was fully in charge of the build process. I c
 
 ![Garage](/images/build/garage.jpg)
 
-# Theatrical Carpentry, Vassar College
+### Theatrical Carpentry, Vassar College
 
 ![The Drama scene shop](/images/build/vassar/shop.jpg)
 
