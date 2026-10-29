@@ -6,7 +6,7 @@ draft: false
 
 # Hello!
 
-I'm Corin, builder and educator. I love creative problem solving: taking the time to really understand complex systems, explaining how they work, and fixing what's not working.
+I'm Corin, builder and educator. I love creative problem solving. I enjoy taking my time to really understand complex systems, explaining how they work, and fixing what's not working.
 
 Take a look at my [build](/build) page which shows off some of the cool carpentry projects I've worked on!
 
@@ -14,7 +14,9 @@ Head over to my [resume](/resume) to get a sense of my professional and academic
 
 My [education](/education) page details my professional and volunteer experience as an educator.
 
-Check out my [tutoring](/tutoring) page to learn more about my 1-on-1 STEM coaching practice.
+See my [about](/about) page to learn a bit more about me, or read some of my [blog](/posts) posts!
+
+<!-- Check out my [tutoring](/tutoring) page to learn more about my 1-on-1 STEM coaching practice. -->
 
 ### Say hi!
 
