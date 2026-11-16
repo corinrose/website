@@ -20,6 +20,6 @@ See my [about](/about) page to learn a bit more about me, or read some of my [bl
 
 ### Say hi!
 
-Looking for carpentry, structural repairs, or tech help in the Burlington area? Email me at [contact@corin.website](mailto:contact@corin.website). I'm also always interested in creative and cool projects located elsewhere!
+Looking for carpentry or tech help in the Burlington area? Email me at [contact@corin.website](mailto:contact@corin.website). I'm also always interested in creative and cool projects located elsewhere! If you've got a weird build project and you're just not sure how to find the right person to help bring your vision to life, I'm your guy.
 
 ![Corin in the winter mountains](/images/winter.jpg)
