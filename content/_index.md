@@ -3,7 +3,7 @@ title: "I'm Corin Rose."
 draft: false
 ---
 
-I'm a builder and educator. I love creative problem solving. I enjoy taking my time to really understand complex systems, explaining how they work, and fixing what's not working.
+I'm a builder and educator. I love creative problem solving. I enjoy taking my time to really understand complex systems, explain how they work, and fix what's not working.
 
 Check out my [build](/build) page to see some cool carpentry projects I've worked on, browse my [resume](/resume) and [education](/education) pages for my professional and teaching background, or head over to my [about](/about) page or my [blog](/posts) to learn more about what I'm up to!
 
