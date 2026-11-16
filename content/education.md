@@ -52,7 +52,7 @@ Following the success of our student run IgniteCS program detailed below, Jason 
 
 This course was six weeks long, five days a week. The first four weeks were structured with a lecture from Prof. Waterman in the morning, and then after lunch a shorter lecture from Ian and I with exercises we had prepared that the students could work on with our help. The final two weeks, we helped the students develop ideas for projects and implement them.
 
-You can peruse content we wrote for this course [here](http://cscamp.corin.website/exercises/index.html). We worked closely with Prof. Waterman the semester leading up to the course and made contributions across the course, but these exercises were my primary contribution.
+You can peruse content we wrote for this course [here](https://cscamp.corin.website/exercises/index.html). We worked closely with Prof. Waterman the semester leading up to the course and made contributions across the course, but these exercises were my primary contribution.
 
 You can also check out this [article](https://www.vassar.edu/stories/2018/180906-coding-class.html) about the summer program.
 
