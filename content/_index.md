@@ -20,6 +20,6 @@ See my [about](/about) page to learn a bit more about me, or read some of my [bl
 
 ### Say hi!
 
-The best way to reach me is by email: [contact@corin.website](mailto:contact@corin.website)
+Looking for carpentry, structural repairs, or tech help in the Burlington area? Email me at [contact@corin.website](mailto:contact@corin.website). I'm also always interested in creative and cool projects located elsewhere!
 
 ![Corin in the winter mountains](/images/winter.jpg)
