@@ -23,6 +23,7 @@ draft: false
   * Designed and installed high end finish work including trim and custom closets
   * Built and fixed decks and sheds
   * Recommended and installed energy efficiency improvements
+  * Managed client relationships from lead generation and estimating through design and project completion
 
 * **Project Manager & Carpenter** | Blair Custom Builders (January 2026 – July 2026)
   * Directed residential carpentry projects across Western Vermont, managing full lifecycles from estimating and client communications to budget tracking
