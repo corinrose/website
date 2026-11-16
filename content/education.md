@@ -50,9 +50,9 @@ I'm glad to say there was never an incident where the SawStop brake was triggere
 
 Following the success of our student run IgniteCS program detailed below, Jason Waterman, my favorite CS professor at Vassar, reached out to me and my friend Ian, who were the principal content writers for the program about teaching a more extensive summer CS camp aimed in particular at Vassar students who had no background in computer science. This course was loosely based on Harvey Mudd's introduction to computer science as well as Prof. Waterman's and our lecture material, with the hope being to eventually replace Vassar's existing CMPU101 introductory class, which taught Scheme and was overly focused on theory and not up to date with modern programming techniques. 
 
-This course was six weeks long, five days a week. The first four weeks were structured with a lecture from Prof. Waterman in the morning, and then after lunch a shorter lecture from Ian and I with a project we had prepared that the students could work on with our help. The final two weeks, we helped the students develop ideas for projects and implement them.
+This course was six weeks long, five days a week. The first four weeks were structured with a lecture from Prof. Waterman in the morning, and then after lunch a shorter lecture from Ian and I with exercises we had prepared that the students could work on with our help. The final two weeks, we helped the students develop ideas for projects and implement them.
 
-The content we wrote for this course can be found on this [site](http://cscamp.corin.website/exercises/index.html). We worked closely with Prof. Waterman the semester leading up to the course and made contributions across the course, but these exercises were my primary contribution.
+You can peruse content we wrote for this course [here](http://cscamp.corin.website/exercises/index.html). We worked closely with Prof. Waterman the semester leading up to the course and made contributions across the course, but these exercises were my primary contribution.
 
 You can also check out this [article](https://www.vassar.edu/stories/2018/180906-coding-class.html) about the summer program.
 
