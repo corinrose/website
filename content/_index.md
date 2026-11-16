@@ -9,6 +9,6 @@ Check out my [build](/build) page to see some cool carpentry projects I've worke
 
 ### Looking for carpentry or tech help in the Burlington area? 
 
-Email me at [contact@corin.website](mailto:contact@corin.website). I'm also happy to travel for interesting, creative, and wholesome projects located elsewhere! If you've got a weird build project and you're just not sure how to find the right person to help bring your vision to life, I'm your guy.
+Email me at [contact@corin.website](mailto:contact@corin.website). I'm based out of Essex Junction, Vermont and serve the greater Burlington area. I'm also happy to travel for interesting, creative, and wholesome projects located elsewhere! If you've got a weird build project and you're just not sure how to find the right person to help bring your vision to life, I'm your guy.
 
 ![Corin on Mt. Philo in the winter.](/images/winter.jpg)
