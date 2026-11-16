@@ -1,5 +1,5 @@
 ---
-title: "Establishing the Causal Relationship between Obesity, Insulin Resistance and Autophagy"
+title: "A First Foray into Research and Explaining Complex Ideas"
 draft: false
 date: 2016-03-19
 ---
