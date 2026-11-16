@@ -52,7 +52,7 @@ Following the success of these courses, Jason Waterman, my favorite CS professor
 
 This course was six weeks long, five days a week. The first four weeks were structured with a lecture from Prof. Waterman in the morning, and then after lunch a shorter lecture from Ian and I with a project we had prepared that the students could work on with our help. The final two weeks, we helped the students develop ideas for projects and implement them.
 
-The content we wrote for this course can be found on this [GitHub repository](https://github.com/corinrose/vassar-cscamp-website/blob/master/website/content/Exercises). We worked closely with Prof. Waterman the semester leading up to the course and made contributions across the course, but these exercises were Ian and my primary contribution.
+The content we wrote for this course can be found on this [GitHub repository](https://github.com/corinrose/cs-camp-vassar/tree/master/content/Exercises). We worked closely with Prof. Waterman the semester leading up to the course and made contributions across the course, but these exercises were Ian and my primary contribution.
 
 You can also check out this [article](https://www.vassar.edu/stories/2018/180906-coding-class.html) about the summer program.
 
